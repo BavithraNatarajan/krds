@@ -53,6 +53,7 @@ h1 {
   height: 200px;
   width: 200px;
   position: relative;
+  top: 30px;
 }
 
 .main-pic {
@@ -99,7 +100,7 @@ h1 {
   text-align: left;
   width: 150px;
   position: relative;
-  top: 90px;
+  top: 50px;
 }
 
 .feature-logo {
@@ -124,7 +125,9 @@ h1 {
     justify-content: flex-start;
     height: 100vh !important;
   }
-
+  .feature-text {
+    top: 90px !important;
+  }
   .main-pic-holder {
     width: 100%;
     height: 100%;
@@ -143,9 +146,8 @@ h1 {
     height: 50px;
     width: 50px;
   }
-  .feature-text p{
+  .feature-text p {
     font-weight: 300 !important;
-
   }
 
   .mobile-holder {
@@ -187,7 +189,7 @@ h1 {
     line-height: 0 !important;
     position: absolute !important;
     top: 50% !important;
-    left: 10px !important; 
+    left: 10px !important;
     display: block !important;
     width: 20px !important;
     height: 20px !important;
@@ -198,15 +200,15 @@ h1 {
     border: none !important;
     outline: none !important;
     background: transparent !important;
-    z-index: 1 !important; 
+    z-index: 1 !important;
   }
-  
+
   .slick-next {
     font-size: 0 !important;
     line-height: 0 !important;
     position: absolute !important;
     top: 50% !important;
-    right: 10px !important; 
+    right: 10px !important;
     display: block !important;
     width: 20px !important;
     height: 20px !important;
@@ -217,8 +219,6 @@ h1 {
     border: none !important;
     outline: none !important;
     background: transparent !important;
-    z-index: 1 !important; 
+    z-index: 1 !important;
   }
-  
-
 }
