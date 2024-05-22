@@ -7,3 +7,7 @@
 𝐒𝐓𝐄𝐏 𝟒 . 𝐒𝐭𝐚𝐫𝐭 𝐭𝐡𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐒𝐞𝐫𝐯𝐞𝐫: 𝐲𝐚𝐫𝐧 𝐬𝐭𝐚𝐫𝐭
 
 In This Project the technologies used is : REACT JS and CSS 
+I have used slick-carousel Library for Mobile slide carousel.
+
+In any scenario packages are not installed properly kindly add the follwing libraries for carousal-->  yarn add slick-carousel react-slick.
+
