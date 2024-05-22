@@ -11,5 +11,6 @@ I have used slick-carousel Library for Mobile slide carousel.
 
 In any scenario packages are not installed properly kindly add the follwing libraries for carousal-->  yarn add slick-carousel react-slick.
 
-<img width="1440" alt="Desktop-krds" src="https://github.com/BavithraNatarajan/krds/assets/170551227/4c3fa2ad-cea1-4658-90ac-ca12d8aa506a">
-<img width="256" alt="Mobile" src="https://github.com/BavithraNatarajan/krds/assets/170551227/38ab7ed7-4730-4331-a016-a7d09d984316">
+
+<img width="1440" alt="desktop krds" src="https://github.com/BavithraNatarajan/krds/assets/170551227/7d48cad2-a140-4c70-920e-590158e68a63">
+<img width="258" alt="mobile krds" src="https://github.com/BavithraNatarajan/krds/assets/170551227/69c0fbbd-8087-4dda-b297-73bc9d2c93cb">
