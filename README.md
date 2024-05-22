@@ -5,3 +5,5 @@
 𝐒𝐓𝐄𝐏 𝟑 . 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬: 𝐲𝐚𝐫𝐧 𝐢𝐧𝐬𝐭𝐚𝐥𝐥
 
 𝐒𝐓𝐄𝐏 𝟒 . 𝐒𝐭𝐚𝐫𝐭 𝐭𝐡𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐒𝐞𝐫𝐯𝐞𝐫: 𝐲𝐚𝐫𝐧 𝐬𝐭𝐚𝐫𝐭
+
+In This Project the technologies used is : REACT JS and CSS 
